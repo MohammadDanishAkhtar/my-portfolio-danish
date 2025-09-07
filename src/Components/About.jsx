@@ -12,7 +12,7 @@ export default function Skills() {
         </h1>
         <div className="flex flex-col md:flex-row justify-center items-center gap-10 px-6 md:px-16">
           <img
-            src="image.jpeg"
+            src="/image.jpeg"
             alt="My picture"
             className="rounded-full w-60 h-60 md:w-72 md:h-72 object-cover shadow-md"
           />
