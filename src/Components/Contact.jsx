@@ -14,7 +14,7 @@ export default function Contact() {
       
       <div className="flex space-x-6 text-3xl sm:text-4xl md:text-5xl mb-4">
         <a
-          href="https://www.linkedin.com/in/mohammad-danish-akhtar"
+          href="https://www.linkedin.com/in/mohammad-danish-akhtar-085460255"
           target="_blank"
           rel="noopener noreferrer"
           className="hover:text-blue-400 transition-transform transform hover:scale-110"
